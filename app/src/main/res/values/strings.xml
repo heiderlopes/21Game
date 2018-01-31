@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">21Game</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="titulo_jogar">Jogar</string>
+    <string name="titulo_sobre">Sobre</string>
+    <string name="titulo_sair">Sair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
